@@ -2,43 +2,34 @@
 
 ## Oryx
 
-[Brief description of Oryx project]
+TyphoonAI Chat App ,Just Private & Creatively 
 
 ### Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- [TyphoonAI
 
 ### Installation
-[Instructions on how to install Oryx]
+to install  clone this $ git clone https://github.com/XevilA/oryxchat.git
+cd oryxchat
+
 
 ### Usage
-[Examples of how to use Oryx]
+npm start for start local app
+npm run build for build your app
 
-## TyphoonAI Chat (Linux)
 
-[Brief description of TyphoonAI Chat]
 
-### Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+
 
 ### System Requirements
 - Linux operating system
-- [Other requirements]
+- NodeJS , JS Installed
 
-### Installation
-[Instructions on how to install TyphoonAI Chat on Linux]
 
-### Usage
-[Examples of how to use TyphoonAI Chat]
 
-## Contributing
-[Information on how others can contribute to these projects]
 
+for join  : contact me via email
 ## License
-[License information for both projects]
+MIT ,GNU
 
 ## Contact
-[Your contact information or how to reach you for questions about the projects]
+tirawatnantamas@gmail.com
